@@ -28,6 +28,14 @@ public class AnimalFarm {
 			playMoo();
 			
 		}
+		if (animal.equals("cat")) {
+			playMeow();
+			
+		}
+		if (animal.equals("llama")) {
+			playLlama();
+			
+		}
 		}
 		
 	}
@@ -46,6 +54,13 @@ public class AnimalFarm {
 	void playWoof() {
 		playNoise(woofFile);
 	}
+	void playMeow() {
+		playNoise(meowFile);
+	}
+	void playLlama() {
+		playNoise(llamaFile);
+	}
+	
 
 	String quackFile = "/Users/League/Google Drive/league-sounds/quack.wav";
 	String mooFile = "/Users/League/Google Drive/league-sounds/moo.wav";
