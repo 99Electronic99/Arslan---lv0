@@ -9,6 +9,8 @@
 /FruitQuiz.class
 /HighLowGame.class
 /HowDoYouFeelColors.class
+/lose.wav
+/win.wav
 /LowHighGame.class
 /METHODS.class
 /NasaCountdown.class
@@ -17,9 +19,9 @@
 /RobotSquare.class
 /SoundTrackToLife.class
 /StarShow.class
+/The3numbers.class
 /XGeeks.class
 /YearsAlive.class
 /ifElsePractice.class
-/lose.wav
-/win.wav
-/The3numbers.class
+/photoQuiz.class
+/PhotoQuiz.class
