@@ -9,13 +9,13 @@
 /FruitQuiz.class
 /HighLowGame.class
 /HowDoYouFeelColors.class
-/lose.wav
-/win.wav
+/Level0exam.class
 /LowHighGame.class
 /METHODS.class
 /NasaCountdown.class
 /OptionDialog.class
 /POTATO.class
+/PhotoQuiz.class
 /RobotSquare.class
 /SoundTrackToLife.class
 /StarShow.class
@@ -23,5 +23,6 @@
 /XGeeks.class
 /YearsAlive.class
 /ifElsePractice.class
-/photoQuiz.class
-/PhotoQuiz.class
+/lose.wav
+/win.wav
+/Level0exam2.class
